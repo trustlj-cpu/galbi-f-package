@@ -1,0 +1,5 @@
+# GALBI F 실험 고정 패키지
+
+- ZIP: GALBI_F_PACKAGE_REV9_C2ABEBD7.zip (SHA-256 67123424ed9816eb271bf28592652559279dbc9caa2f0959d7835cdd26689c81)
+- 내부 파일 검증: MANIFEST_SHA256.txt
+- 실행 소스는 ZIP 내부 파일만. 이 저장소는 배포 전용.
